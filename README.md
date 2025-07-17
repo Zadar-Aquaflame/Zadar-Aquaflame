@@ -10,6 +10,7 @@
 - Passionate about discovering new things through programming
 - Currently learning **Java** (developing Minecraft mods) and **Python** (personal project for a friend)
 - Always excited to take on new challenges and grow my skills!
+- I'll always use the same license, you can see it in the LICENSE.md file
 
 ---
 
